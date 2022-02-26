@@ -11,3 +11,19 @@
 <p align="center">
     100 exercises done!
 </p>
+
+## Python
+<p align="center">
+    100 exercises done!
+</p>
+
+## Shell
+<p align="center">
+    100 exercises done!
+</p>
+
+## C
+<p align="center">
+    100 exercises done!
+</p>
+

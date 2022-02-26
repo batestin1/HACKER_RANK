@@ -14,7 +14,7 @@
 # Your task is to use for loops to display only odd natural numbers from  to .
 
 i=1 #declare a variable
-while [ $i -le 100 ] # the sign '$' is to call the variable and '-le' is equal a 'less than equal' or '<='
+while [ $i < 100 ] # the sign '$' is to call the variable and '-le' is equal a 'less than equal' or '<='
 do
     
     i=$((i+2))
